@@ -26,3 +26,8 @@ Started learning Machine Learning on 13 April 2026.
 - Worked with datasets
 - Organized repository professionally
 - Uploading code consistently
+
+- 13 April 2026 → Started ML journey
+- Completed Python basics
+- Completed NumPy fundamentals
+- Ready to begin Pandas
