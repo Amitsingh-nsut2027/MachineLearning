@@ -1,3 +1,4 @@
 .DS_Store
 __pycache__/
-*.pyc
+*.pyc.virtual_documents/
+anaconda_projects/
